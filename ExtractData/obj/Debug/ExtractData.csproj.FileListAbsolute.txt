@@ -1,0 +1,13 @@
+c:\users\imran\documents\visual studio 2015\Projects\ExtractData\ExtractData\bin\Debug\ExtractData.exe.config
+c:\users\imran\documents\visual studio 2015\Projects\ExtractData\ExtractData\bin\Debug\ExtractData.exe
+c:\users\imran\documents\visual studio 2015\Projects\ExtractData\ExtractData\bin\Debug\ExtractData.pdb
+c:\users\imran\documents\visual studio 2015\Projects\ExtractData\ExtractData\obj\Debug\ExtractData.csprojResolveAssemblyReference.cache
+c:\users\imran\documents\visual studio 2015\Projects\ExtractData\ExtractData\obj\Debug\ExtractData.exe
+c:\users\imran\documents\visual studio 2015\Projects\ExtractData\ExtractData\obj\Debug\ExtractData.pdb
+C:\Users\Ghulam Mustafa\source\repos\ExtractData\ExtractData\bin\Debug\ExtractData.exe.config
+C:\Users\Ghulam Mustafa\source\repos\ExtractData\ExtractData\bin\Debug\ExtractData.exe
+C:\Users\Ghulam Mustafa\source\repos\ExtractData\ExtractData\bin\Debug\ExtractData.pdb
+C:\Users\Ghulam Mustafa\source\repos\ExtractData\ExtractData\obj\Debug\ExtractData.csprojAssemblyReference.cache
+C:\Users\Ghulam Mustafa\source\repos\ExtractData\ExtractData\obj\Debug\ExtractData.csproj.CoreCompileInputs.cache
+C:\Users\Ghulam Mustafa\source\repos\ExtractData\ExtractData\obj\Debug\ExtractData.exe
+C:\Users\Ghulam Mustafa\source\repos\ExtractData\ExtractData\obj\Debug\ExtractData.pdb
